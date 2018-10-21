@@ -4,7 +4,7 @@ A react application that aggregates amazon data for a specified vendor. It allow
 I do not own the product so I am not allowed to share our codebase.
 
 Disclaimer: This is a demo application of a dev branch so functionality has been reduced and performance has not been tested.
-
+Demo: http://104.248.119.107:3002/
 This application incorporates the following packages:
 
 - axios
