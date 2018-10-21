@@ -1,8 +1,9 @@
-# React Passport Example Application
+# Site Audit Dashboard
+A react application that aggregates amazon data for a specified vendor. It allows data comparison for a day ago, week ago, and month ago. 
 
-An example application which combines a back-end which stores user data and front-end React.js application which handles user authentication sessions.
+I do not own the product so I am not allowed to share our codebase.
 
-
+Disclaimer: This is a demo application of a dev branch so functionality has been reduced and performance has not been tested.
 
 This application incorporates the following packages:
 
@@ -14,18 +15,10 @@ This application incorporates the following packages:
 
 ## Screenshots
 
-Home page before login:
+Data comparison
 
-![Alt Home Page](/README/home.png?raw=true)
+![Alt Home Page](/README/compare.png?raw=true)
 
-Sign up page:
+Search for item:
 
-![Alt Signup Page](/README/signup.png?raw=true)
-
-Login page:
-
-![Alt Login Page](/README/login.png?raw=true)
-
-Dashboard which is only accessible after login:
-
-![Alt Dashboard](/README/dashboard.png?raw=true)
+![Alt Signup Page](/README/search.png?raw=true)
